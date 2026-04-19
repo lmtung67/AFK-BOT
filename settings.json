@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "Epsteim367.aternos.me",
+    "port": 48407,
     "version": "1.21.1"
   },
   "position": {
@@ -28,11 +28,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 300,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "thichgym pvp gà",
+        "Subscribe to LMTung trên yt đe!",
+        "nghiện"
       ]
     },
     "chat-log": true,
